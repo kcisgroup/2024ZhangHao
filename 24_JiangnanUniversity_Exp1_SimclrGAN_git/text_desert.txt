@@ -1,0 +1,90 @@
+01 flat lightyellow desert
+02 expansive sandy desert
+03 desolate scorching desert
+04 vast flat desert
+05 sunbaked dunes
+06 scorching lightyellow desert
+07 expansive lightyellow dunes
+08 vast sandy desert
+09 desolate sunbaked dunes
+10 vast flat dunes
+11 scorching sandy desert
+12 lightyellow sunbaked desert
+13 flat expansive desert
+14 lightyellow sandy dunes
+15 vast desolate desert
+16 scorching flat desert
+17 expansive sunbaked desert
+18 desolate sandy dunes
+19 vast lightyellow desert
+20 sunbaked flat desert
+21 expansive scorching desert
+22 desolate vast desert
+23 flat sandy desert
+24 lightyellow scorching dunes
+25 sunbaked expansive desert
+26 desolate lightyellow dunes
+27 vast sunbaked desert
+28 flat scorching dunes
+29 sandy sunbaked desert
+30 expansive flat dunes
+31 lightyellow desolate desert
+32 vast sandy dunes
+33 sunbaked scorching desert
+34 expansive vast desert
+35 desolate flat desert
+36 lightyellow flat dunes
+37 scorching expansive desert
+38 vast desolate dunes
+39 sandy flat desert
+40 lightyellow expansive desert
+41 sunbaked desolate desert
+42 vast scorching desert
+43 expansive sandy dunes
+44 flat sunbaked desert
+45 scorching vast desert
+46 lightyellow flat desert
+47 expansive desolate desert
+48 sandy lightyellow desert
+49 sunbaked expansive dunes
+50 desolate flat dunes
+51 vast scorching dunes
+52 sandy vast desert
+53 flat sunbaked dunes
+54 lightyellow scorching desert
+55 expansive lightyellow desert
+56 desolate sunbaked desert
+57 vast expansive desert
+58 sandy flat dunes
+59 scorching desolate desert
+60 sunbaked lightyellow dunes
+61 vast windblown desert
+62 expansive flat sunbaked desert
+63 desolate scorching flat desert
+64 lightyellow sandy expansive dunes
+65 scorching vast sandy desert
+66 flat desolate sunbaked desert
+67 expansive sandy lightyellow desert
+68 vast desolate scorching desert
+69 flat lightyellow sunbaked desert
+70 sandy expansive vast desert
+71 scorching desolate flat desert
+72 sunbaked vast sandy dunes
+73 expansive lightyellow flat desert
+74 vast scorching desolate desert
+75 lightyellow flat expansive desert
+76 sandy desolate sunbaked desert
+77 flat sandy scorching desert
+78 expansive desolate lightyellow desert
+79 vast flat sunbaked dunes
+80 scorching expansive lightyellow desert
+81 sunbaked sandy vast desert
+82 lightyellow expansive flat dunes
+83 desolate scorching sandy desert
+84 flat expansive desolate desert
+85 vast sandy lightyellow dunes
+86 sunbaked scorching vast desert
+87 expansive sandy flat desert
+88 lightyellow vast desolate desert
+89 scorching flat expansive desert
+90 vast lightyellow sandy desert
